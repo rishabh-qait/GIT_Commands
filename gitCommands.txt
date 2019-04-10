@@ -4,3 +4,5 @@ HELLO AGAIN
 Practicing Git Stash and git Stash Apply
 
 Commiting something on Branch 1 
+
+Commiting something else on Branch2
